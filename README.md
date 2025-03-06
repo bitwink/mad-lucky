@@ -1,4 +1,4 @@
-# Mad-Lucky
+# Mad-Lucky (Draft)
 
 ## Introduction
 Mad-Lucky is a decentralized lottery DApp that fuses traditional lottery mechanics with AI-powered investment strategies. Players can join one of two pools: a **Regular Lottery Pool** with a fixed prize or an **AI Lottery Pool**, where an AI agent grows the prize pool by investing in DeFi protocols or executing trading strategies. Initially developed on the **Monada Testnet**, Mad-Lucky is fully compatible with all EVM-based chains and will launch on the **Monada Mainnet** upon its release.
