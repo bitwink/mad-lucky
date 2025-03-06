@@ -1,0 +1,12 @@
+{
+  "name": "mad-lucky",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "hardhat": "^2.22.19"
+  },
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}

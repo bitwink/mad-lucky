@@ -1,0 +1,5 @@
+{
+  "chainId": 1234,
+  "rpcUrl": "https://monada-testnet-rpc-url",
+  "contractAddress": "0x..."
+}
